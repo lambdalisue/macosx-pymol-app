@@ -43,12 +43,12 @@ You may need to wait the [PR#41728](https://github.com/Homebrew/homebrew/pull/41
 
 ## Screenshots
 
-![Screenshot1 - PyMOL](./Screenshots/screenshot01.png)
+![Screenshot1 - PyMOL](./Screenshots/screenshot01.png)  
 PyMOL on Dock
 
 
-![Screenshot2 - PyMOL](./Screenshots/screenshot02.png)
+![Screenshot2 - PyMOL](./Screenshots/screenshot02.png)  
 PDB files in Finder
 
-![Screenshot3 - PyMOL](./Screenshots/screenshot03.png)
+![Screenshot3 - PyMOL](./Screenshots/screenshot03.png)  
 "Open With" of PDB files
