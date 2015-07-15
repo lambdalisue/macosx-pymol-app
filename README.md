@@ -13,7 +13,7 @@ If you have not installed it yet, use [homebrew][] to install it.
 
 ```
 $ brew tap homebrew/dupes
-$ brew install homebrew/dupes/tcl-tk --enable-threads --with-x11
+$ brew install homebrew/dupes/tcl-tk --with-threads --with-x11
 $ brew install python --with-brewed-tk
 $ brew install pymol
 ```
